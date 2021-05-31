@@ -8,7 +8,7 @@ Describe specific features of your extension including screenshots of your exten
 
 For example if there is an image subfolder under your extension project workspace:
 
-![feature X](src/example.gif)
+![feature X](https://github.com/zahar01/todo-show/blob/master/scr/example.gif?raw=true)
 
 > Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
 
