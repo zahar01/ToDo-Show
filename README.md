@@ -1,6 +1,6 @@
 # ToDo-show extension
 
-This extension "todo-show" is needed to showing all yours "ToDo's" in file. 
+This extension "todo-show" is needed to show all yours "ToDo's" in file. 
 
 ## Usage
 
